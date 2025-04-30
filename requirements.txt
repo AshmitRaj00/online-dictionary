@@ -1,0 +1,6 @@
+streamlit==1.31.0
+googletrans==3.1.0a0
+streamlit-option-menu==0.3.2
+streamlit-lottie==0.0.5
+streamlit-extras==0.3.6
+requests==2.31.0
